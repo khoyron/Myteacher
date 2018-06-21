@@ -69,6 +69,7 @@ class SplashScreenUi : AnkoComponent<SplashScreen> {
                     rightMargin = dip(10)
                 }
                 textView {
+                    id = R.id.gosignin
                     gravity = Gravity.CENTER
                     textSize = 16f //sp
                     textColor = resources.getColor(R.color.colorWhite)

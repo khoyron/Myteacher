@@ -3,4 +3,16 @@
     <item name="firstButton" type="id" />
     <item name="imageBg" type="id" />
     <item name="tvTitle" type="id" />
+    <item name="gosignin" type="id" />
+    <item name="back" type="id" />
+    <item name="facebook" type="id" />
+    <item name="google" type="id" />
+    <item name="etEmail" type="id" />
+    <item name="etPasssword" type="id" />
+    <item name="btnLogin" type="id" />
+    <item name="gotoRegister" type="id" />
+    <item name="etFirstName" type="id" />
+    <item name="etLastName" type="id" />
+    <item name="btnRegister" type="id" />
+    <item name="gotoLogin" type="id" />
 </resources>

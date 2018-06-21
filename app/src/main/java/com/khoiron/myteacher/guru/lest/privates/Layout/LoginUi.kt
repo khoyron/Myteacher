@@ -21,6 +21,7 @@ class LoginUi : AnkoComponent<LoginActivity> {
             linearLayout {
                 orientation = LinearLayout.HORIZONTAL
                 imageView {
+                    id = R.id.back
                     imageResource = R.drawable.back
                 }.lparams(width = dip(55), height = matchParent) {
                     topMargin = dip(10)
@@ -28,11 +29,10 @@ class LoginUi : AnkoComponent<LoginActivity> {
                     bottomMargin = dip(10)
                 }
                 textView {
-                    typeface = Typeface.createFromAsset(context.assets, "fonts/avenir_heavy.ttf")
                     gravity = Gravity.CENTER
                     textSize = 22f //sp
                     textColor = resources.getColor(R.color.colorgrey)
-                    text = resources.getString(R.string.sign_up)
+                    text = resources.getString(R.string.sign_in)
                     textAlignment = View.TEXT_ALIGNMENT_TEXT_START
                 }.lparams(width = matchParent, height = matchParent) {
                     leftMargin = dip(20)
@@ -47,19 +47,19 @@ class LoginUi : AnkoComponent<LoginActivity> {
                     backgroundColor = resources.getColor(R.color.colorTransparant)
                     orientation = LinearLayout.VERTICAL
                     linearLayout {
+                        id = R.id.facebook
                         orientation = LinearLayout.HORIZONTAL
                         backgroundResource = R.drawable.cornerlinear
                         imageView {
                             imageResource = R.drawable.sementara
                         }.lparams(width = dip(50), height = matchParent)
                         textView {
-                            typeface = Typeface.createFromAsset(context.assets, "fonts/avenir_heavy.ttf")
                             textSize = 18f //sp
-                            text = resources.getString(R.string.sign_up_with_facebook)
+                            text = resources.getString(R.string.sign_in_with_facebook)
                             textColor = resources.getColor(R.color.colorgreybalck)
                             gravity = Gravity.CENTER
                         }.lparams(width = matchParent, height = matchParent) {
-                            leftMargin = dip(10)
+                            //                            leftMargin = dip(10)
                         }
                     }.lparams(width = matchParent, height = dip(50)) {
                         leftMargin = dip(20)
@@ -67,19 +67,19 @@ class LoginUi : AnkoComponent<LoginActivity> {
                         topMargin = dip(30)
                     }
                     linearLayout {
+                        id = R.id.facebook
                         orientation = LinearLayout.HORIZONTAL
                         backgroundResource = R.drawable.cornerlinear
                         imageView {
                             imageResource = R.drawable.sementara
                         }.lparams(width = dip(50), height = matchParent)
                         textView {
-                            typeface = Typeface.createFromAsset(context.assets, "fonts/avenir_heavy.ttf")
                             textSize = 18f //sp
-                            text = resources.getString(R.string.sign_up_with_google)
+                            text = resources.getString(R.string.sign_in_with_google)
                             textColor = resources.getColor(R.color.colorgreybalck)
                             gravity = Gravity.CENTER
                         }.lparams(width = matchParent, height = matchParent) {
-                            leftMargin = dip(10)
+                            //                            leftMargin = dip(10)
                         }
                     }.lparams(width = matchParent, height = dip(50)) {
                         leftMargin = dip(20)
@@ -99,7 +99,6 @@ class LoginUi : AnkoComponent<LoginActivity> {
                             weight = 5f
                         }
                         textView {
-                            typeface = Typeface.createFromAsset(context.assets, "fonts/avenir_heavy.ttf")
                             text = "Or"
                             textSize = 16f //sp
                             gravity = Gravity.CENTER
@@ -122,56 +121,44 @@ class LoginUi : AnkoComponent<LoginActivity> {
                         rightMargin = dip(20)
                         topMargin = dip(30)
                     }
-                    editText {
-                        hintTextColor = resources.getColor(R.color.colorgreybalck)
-                        typeface = Typeface.createFromAsset(context.assets, "fonts/avenir_heavy.ttf")
-                        leftPadding = dip(10)
-                        hint = resources.getString(R.string.first_name)
+                    linearLayout {
                         backgroundResource = R.drawable.cornerlinear
-                    }.lparams(width = matchParent, height = dip(50)) {
+                        orientation = LinearLayout.VERTICAL
+                        editText {
+                            id = R.id.etEmail
+                            backgroundColor = resources.getColor(R.color.colorTransparant)
+                            hintTextColor = resources.getColor(R.color.colorgreybalck)
+                            hint = resources.getString(R.string.email_address)
+                        }.lparams(width = matchParent, height = dip(45)) {
+                            leftMargin = dip(10)
+                        }
+                    }.lparams(width = matchParent) {
                         topMargin = dip(30)
                         leftMargin = dip(20)
                         rightMargin = dip(20)
                     }
-                    editText {
-                        hintTextColor = resources.getColor(R.color.colorgreybalck)
-                        leftPadding = dip(60)
-                        typeface = Typeface.createFromAsset(context.assets, "fonts/avenir_heavy.ttf")
-                        hint = resources.getString(R.string.last_name)
+                    linearLayout {
                         backgroundResource = R.drawable.cornerlinear
-                    }.lparams(width = matchParent, height = dip(50)) {
-                        topMargin = dip(7)
-                        leftMargin = dip(20)
-                        rightMargin = dip(20)
-                    }
-                    editText {
-                        hintTextColor = resources.getColor(R.color.colorgreybalck)
-                        typeface = Typeface.createFromAsset(context.assets, "fonts/avenir_heavy.ttf")
-                        leftPadding = dip(10)
-                        hint = resources.getString(R.string.email_address)
-                        backgroundResource = R.drawable.cornerlinear
-                    }.lparams(width = matchParent, height = dip(50)) {
-                        topMargin = dip(7)
-                        leftMargin = dip(20)
-                        rightMargin = dip(20)
-                    }
-                    editText {
-                        hintTextColor = resources.getColor(R.color.colorgreybalck)
-                        typeface = Typeface.createFromAsset(context.assets, "fonts/avenir_heavy.ttf")
-                        leftPadding = dip(10)
-                        hint = resources.getString(R.string.password)
-                        backgroundResource = R.drawable.cornerlinear
-                    }.lparams(width = matchParent, height = dip(50)) {
+                        orientation = LinearLayout.VERTICAL
+                        editText {
+                            id = R.id.etPasssword
+                            hintTextColor = resources.getColor(R.color.colorgreybalck)
+                            hint = resources.getString(R.string.password)
+                            backgroundColor = resources.getColor(R.color.colorTransparant)
+                        }.lparams(width = matchParent, height = dip(45)) {
+                            leftMargin = dip(10)
+                        }
+                    }.lparams(width = matchParent) {
                         topMargin = dip(7)
                         leftMargin = dip(20)
                         rightMargin = dip(20)
                     }
                     button {
-                        typeface = Typeface.createFromAsset(context.assets, "fonts/avenir_heavy.ttf")
+                        id = R.id.btnLogin
                         textSize = 18f //sp
                         textColor = resources.getColor(R.color.colorWhite)
                         backgroundResource = R.drawable.button_corner
-                        text = resources.getString(R.string.sign_up)
+                        text = resources.getString(R.string.sign_in)
                     }.lparams(width = matchParent, height = dip(48)) {
                         rightMargin = dip(20)
                         leftMargin = dip(20)
@@ -179,17 +166,17 @@ class LoginUi : AnkoComponent<LoginActivity> {
                         bottomMargin = dip(20)
                     }
                     textView {
-                        typeface = Typeface.createFromAsset(context.assets, "fonts/avenir_heavy.ttf")
+                        id = R.id.gotoRegister
                         textColor = resources.getColor(R.color.colorgreybalck)
                         gravity = Gravity.CENTER
-                        text = resources.getString(R.string.privacy_policy)
+                        text = resources.getString(R.string.forgot_password)
                     }.lparams(width = matchParent) {
                         leftMargin = dip(20)
                         rightMargin = dip(20)
                         bottomMargin = dip(30)
                     }
                 }.lparams(width = matchParent, height = matchParent)
-            }
+            }.lparams(width = matchParent, height = matchParent)
         }
     }
 }

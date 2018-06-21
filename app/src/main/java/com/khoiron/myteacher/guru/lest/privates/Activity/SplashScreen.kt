@@ -4,6 +4,7 @@ import android.os.Bundle
 import android.view.View
 import android.widget.Button
 import android.widget.ImageView
+import android.widget.TextView
 import com.cekongkir.cekpaket.cekresi.ceklokasi.ceksemuaongkir.cekbarang.kiriman.khoiron.UI.Base.BaseActivity
 import com.khoiron.myteacher.guru.lest.privates.Layout.SplashScreenUi
 import com.khoiron.myteacher.guru.lest.privates.R
@@ -22,6 +23,7 @@ class SplashScreen :BaseActivity() {
     override fun layoutView() {SplashScreenUi().setContentView(this)}
 
     val imageBg by lazy { findViewById(R.id.imageBg) as ImageView }
+    val goSignIn by lazy { findViewById(R.id.gosignin) as TextView }
     val firstButton by lazy { findViewById(R.id.firstButton) as Button }
 
     override fun onMain(savedInstanceState: Bundle?) {
@@ -29,6 +31,9 @@ class SplashScreen :BaseActivity() {
         loadBackground();
 
         firstButton.setOnClickListener {
+            goActivity(Home::class.java)
+        }
+        goSignIn.setOnClickListener {
             goActivity(LoginActivity::class.java)
         }
     }
