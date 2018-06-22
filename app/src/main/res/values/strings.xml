@@ -17,4 +17,10 @@
     <string name="sign_up">Sign Up</string>
     <string name="sign_in">Sign In</string>
     <string name="forgot_password">Whether you have not registered yet ?</string>
+    <string name="home">Home</string>
+    <string name="top_choise">Top Choise</string>
+    <string name="your_clases">Your Class</string>
+    <string name="create">Create</string>
+    <string name="acount">Acount</string>
+
 </resources>

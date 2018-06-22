@@ -15,4 +15,23 @@
     <item name="etLastName" type="id" />
     <item name="btnRegister" type="id" />
     <item name="gotoLogin" type="id" />
+
+    <item name="home" type="id" />
+    <item name="imgHome" type="id" />
+    <item name="txHome" type="id" />
+    <item name="topChoise" type="id" />
+    <item name="imgTopChoise" type="id" />
+    <item name="txTopChoise" type="id" />
+    <item name="create" type="id" />
+    <item name="imgCreate" type="id" />
+    <item name="txCreate" type="id" />
+    <item name="yourClass" type="id" />
+    <item name="imgYourClass" type="id" />
+    <item name="txYourClass" type="id" />
+    <item name="profile" type="id" />
+    <item name="imgProfile" type="id" />
+    <item name="txProfile" type="id" />
+    <item name="search" type="id"></item>
+    <item name="placeFragment" type="id" />
+
 </resources>

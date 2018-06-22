@@ -16,58 +16,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23d9a210-8aa9-456a-a66f-72833e2919df" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-11-23-27-16-159.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-11-23-27-16-159.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-11-23-27-47-342.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-11-23-27-47-342.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-11-23-31-41-828.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-11-23-31-41-828.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-16-14-05-42-725.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-16-14-05-42-725.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-16-14-09-25-981.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-16-14-09-25-981.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-16-14-10-00-561.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-16-14-10-00-561.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-16-14-10-24-759.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-16-14-10-24-759.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-16-14-12-39-175.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-16-14-12-39-175.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-16-14-14-34-037.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-16-14-14-34-037.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-16-14-16-54-351.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-16-14-16-54-351.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-16-14-17-23-566.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-16-14-17-23-566.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-16-14-26-05-626.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-16-14-26-05-626.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-16-14-27-09-289.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-16-14-27-09-289.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-16-14-27-44-397.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-16-14-27-44-397.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-16-14-28-47-688.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-16-14-28-47-688.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-16-14-29-49-533.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-16-14-29-49-533.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-19-17-33-23-474.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-19-17-33-23-474.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-19-17-33-50-740.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-19-17-33-50-740.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-19-18-40-28-627.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-19-18-40-28-627.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-19-18-40-39-709.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-19-18-40-39-709.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-21-13-18-19-113.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-21-13-18-19-113.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-21-13-18-58-003.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-21-13-18-58-003.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-21-13-19-13-657.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-21-13-19-13-657.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-21-13-19-27-375.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-21-13-19-27-375.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-21-13-19-30-683.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-21-13-19-30-683.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-21-13-19-36-085.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-21-13-19-36-085.rawproto" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/activity/home/Home.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/activity/home/SearchActivity.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/activity/service/CreateServiceActivity.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/activity/service/DetailServiceActivity.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/fragment/HomeFragment.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/fragment/ProfileFragment.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/fragment/TopChoiseFragment.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/fragment/YourClassFragment.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/layout/CreateServiceUi.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/layout/DetailServiceUi.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/layout/HomeFragmentUi.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/layout/HomeUi.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/layout/ProfileFragmentUi.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/layout/TopChoiseFragmentUi.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/layout/YourClassFragmentUi.kt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Activity/Home.kt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-21-14-32-22-380.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-21-14-32-22-380.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-21-14-33-32-552.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-21-14-33-32-552.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-21-14-46-52-546.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-21-14-46-52-546.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-21-14-48-17-359.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-21-14-48-17-359.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-21-14-52-25-249.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-21-14-52-25-249.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-21-14-55-45-820.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-21-14-55-45-820.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-21-14-56-25-926.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2018-06-21-14-56-25-926.rawproto" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Activity/LoginActivity.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/activity/login/LoginActivity.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Activity/RegisterActivity.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/activity/login/RegisterActivity.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Activity/SplashScreen.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/activity/login/SplashScreen.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Base/BaseActivity.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/base/BaseActivity.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Base/BaseDialog.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/base/BaseDialog.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Base/BaseFragment.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/base/BaseFragment.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Layout/HomeUi.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/layout/SearchActivityUi.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Layout/LoginUi.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/layout/LoginUi.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Layout/RegisterUi.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/layout/RegisterUi.kt" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Layout/SplashScreenUi.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/layout/SplashScreenUi.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/resourceHashesCache.bin" />
@@ -75,13 +67,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Activity/LoginActivity.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Activity/LoginActivity.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Activity/RegisterActivity.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Activity/RegisterActivity.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Activity/SplashScreen.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Activity/SplashScreen.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Layout/LoginUi.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Layout/LoginUi.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Layout/RegisterUi.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Layout/RegisterUi.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Layout/SplashScreenUi.kt" afterPath="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Layout/SplashScreenUi.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/ids.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/ids.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
     </list>
@@ -107,145 +94,122 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="login.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/login.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="151" column="12" lean-forward="false" selection-start-line="151" selection-start-column="12" selection-end-line="151" selection-end-column="12" />
-              <folding>
-                <element signature="e#5987#6007#0" expanded="true" />
-                <element signature="e#6704#6723#0" expanded="true" />
-                <element signature="e#7419#7442#0" expanded="true" />
-                <element signature="e#8138#8156#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
-              <folding>
-                <element signature="e#350#368#0" expanded="true" />
-                <marker date="1529567796419" expanded="true" signature="1168:1187" ph="..." />
-              </folding>
-            </state>
-          </provider>
-          <provider editor-type-id="android-manifest">
-            <state />
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="RegisterActivity.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Activity/RegisterActivity.kt">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/activity/login/RegisterActivity.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="29" column="47" lean-forward="false" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="47" />
+            <state relative-caret-position="455">
+              <caret line="27" column="59" lean-forward="false" selection-start-line="27" selection-start-column="59" selection-end-line="27" selection-end-column="59" />
               <folding>
-                <element signature="e#59#374#0" expanded="true" />
+                <element signature="e#65#403#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginActivity.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Activity/LoginActivity.kt">
+      <file leaf-file-name="CreateServiceActivity.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/activity/service/CreateServiceActivity.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+              <folding>
+                <element signature="e#67#319#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DetailServiceActivity.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/activity/service/DetailServiceActivity.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+              <folding>
+                <element signature="e#67#269#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeFragment.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/fragment/HomeFragment.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="38" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="38" />
+              <folding>
+                <element signature="e#59#362#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProfileFragment.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/fragment/ProfileFragment.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
-              <caret line="25" column="47" lean-forward="false" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="register.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/register.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="142" column="16" lean-forward="false" selection-start-line="142" selection-start-column="16" selection-end-line="142" selection-end-column="16" />
+              <caret line="20" column="4" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
               <folding>
-                <element signature="e#6121#6144#0" expanded="true" />
-                <element signature="e#6846#6864#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoginUi.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Layout/LoginUi.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="23" column="33" lean-forward="false" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="33" />
-              <folding>
-                <element signature="e#1299#1336#0" expanded="true" />
-                <element signature="e#2509#2560#0" expanded="true" />
-                <element signature="e#3610#3659#0" expanded="true" />
-                <element signature="e#6407#6450#0" expanded="true" />
-                <element signature="e#7182#7220#0" expanded="true" />
-                <element signature="e#7963#8000#0" expanded="true" />
-                <element signature="e#8513#8558#0" expanded="true" />
+                <element signature="e#59#365#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RegisterUi.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Layout/RegisterUi.kt">
+      <file leaf-file-name="TopChoiseFragment.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/fragment/TopChoiseFragment.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="198" column="43" lean-forward="false" selection-start-line="198" selection-start-column="43" selection-end-line="198" selection-end-column="43" />
+            <state relative-caret-position="360">
+              <caret line="20" column="4" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
               <folding>
-                <element signature="e#1471#1508#0" expanded="true" />
-                <element signature="e#2787#2838#0" expanded="true" />
-                <element signature="e#3962#4011#0" expanded="true" />
-                <element signature="e#6711#6751#0" expanded="true" />
-                <element signature="e#7459#7498#0" expanded="true" />
-                <element signature="e#8202#8245#0" expanded="true" />
-                <element signature="e#8953#8991#0" expanded="true" />
-                <element signature="e#9762#9799#0" expanded="true" />
-                <element signature="e#10411#10455#0" expanded="true" />
+                <element signature="e#59#367#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <file leaf-file-name="YourClassFragment.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/fragment/YourClassFragment.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="67" lean-forward="false" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
-              <folding />
+            <state relative-caret-position="360">
+              <caret line="20" column="4" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+              <folding>
+                <element signature="e#59#367#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SplashScreenUi.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Layout/SplashScreenUi.kt">
+      <file leaf-file-name="SearchActivity.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/activity/home/SearchActivity.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="71" column="36" lean-forward="false" selection-start-line="71" selection-start-column="36" selection-end-line="71" selection-end-column="36" />
+            <state relative-caret-position="216">
+              <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
               <folding>
-                <element signature="e#2846#2887#0" expanded="true" />
-                <element signature="e#3348#3390#0" expanded="true" />
+                <element signature="e#64#267#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="SplashScreen.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Activity/SplashScreen.kt">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/activity/login/SplashScreen.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="33" column="26" lean-forward="false" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
-              <folding />
+            <state relative-caret-position="185">
+              <caret line="19" column="3" lean-forward="false" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+              <folding>
+                <element signature="e#65#627#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Home.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/activity/home/Home.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+              <folding>
+                <element signature="e#64#835#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -255,11 +219,12 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
-        <option value="Kotlin Class" />
         <option value="valueResourceFile" />
         <option value="resourceFile" />
         <option value="layoutResourceFile" />
+        <option value="Class" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -272,6 +237,12 @@
       <find>btnLo</find>
       <find>sign</find>
       <find>bac</find>
+      <find>gotoLogin</find>
+      <find>setBackgroundResource</find>
+      <find>.setBackgroundResource(</find>
+      <find>activity</find>
+      <find>sementara</find>
+      <find>back</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -2047,34 +2018,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Activity/LoginActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/ids.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Layout/SearchActivityUi.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Activity/SearchActivity.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/anko/HomeActivity.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Layout/HomeUi.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Activity/Home.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Activity/RegisterActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/drawable/button_corner.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Utility/Globals.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Base/BaseActivity.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values-v16/styles.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/tes.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/anko/TesActivity.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/drawable/shadow.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/drawable/cornerlinear.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
-        <option value="$PROJECT_DIR$/app/build.gradle" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/register.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/login.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/anko/LoginActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/home.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Layout/SplashScreenUi.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Activity/SplashScreen.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Layout/RegisterUi.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Layout/LoginUi.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Activity/RegisterActivity.kt" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Activity/LoginActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Layout/HomeUi.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Layout/HomeFragment.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Layout/HomeFragmentUi.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Frgament/HomeFragment.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Layout/CreateFragmentUI.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Layout/CreateFragmentUi.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Layout/ProfileFragmentUi.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Layout/TopClassFragmentUi.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Layout/YourClassFragmentUi.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Frgament/CreateFragment.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Frgament/ProfileFragment.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Frgament/TopChoiseFragment.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Frgament/YourClassFragment.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/activity/DetailServiceActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/base/BaseActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/base/BaseDialog.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/base/BaseFragment.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/layout/CreateServiceUi.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/layout/DetailServiceUi.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/fragment/HomeFragment.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/layout/SplashScreenUi.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/activity/login/SplashScreen.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/layout/LoginUi.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/layout/RegisterUi.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/layout/SearchActivityUi.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/activity/home/SearchActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/activity/login/LoginActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/activity/login/RegisterActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/layout/HomeUi.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/activity/home/Home.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/fragment/TopChoiseFragment.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/fragment/YourClassFragment.kt" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/layout/HomeFragmentUi.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/layout/ProfileFragmentUi.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/layout/TopChoiseFragmentUi.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/layout/YourClassFragmentUi.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/activity/service/CreateServiceActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/activity/service/DetailServiceActivity.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/fragment/ProfileFragment.kt" />
       </list>
     </option>
   </component>
@@ -2099,8 +2093,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -2173,6 +2165,24 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyTeacher" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
             </PATH_ELEMENT>
@@ -2231,7 +2241,7 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Layout" />
+              <option name="myItemId" value="layout" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -2253,7 +2263,107 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Activity" />
+              <option name="myItemId" value="fragment" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyTeacher" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="privates" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyTeacher" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="privates" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="activity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyTeacher" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="privates" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="activity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="login" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyTeacher" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="privates" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="activity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="home" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -2269,6 +2379,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -2484,6 +2595,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2495,8 +2607,19 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/font" />
+    </key>
     <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.khoiron.myteacher.guru.lest.privates.activity.home" />
+      <recent name="com.khoiron.myteacher.guru.lest.privates.activity.service" />
+      <recent name="com.khoiron.myteacher.guru.lest.privates.activity.login" />
+      <recent name="com.khoiron.myteacher.guru.lest.privates.Activity.Login" />
       <recent name="com.khoiron.myteacher.guru.lest.privates.Activity" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.khoiron.myteacher.guru.lest.privates.layout" />
+      <recent name="com.khoiron.myteacher.guru.lest.privates.Layout" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/app/src/main/assets/fonts" />
@@ -2504,12 +2627,6 @@
       <recent name="$PROJECT_DIR$/app/src/main" />
       <recent name="$PROJECT_DIR$/app/src/main/res/font" />
       <recent name="$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Base" />
-    </key>
-    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
-      <recent name="com.khoiron.myteacher.guru.lest.privates.Layout" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app/src/main/res/font" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -2594,7 +2711,8 @@
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
       <method>
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1529568191116" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1529635691394" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -2641,7 +2759,8 @@
         <option name="ADVANCED_PROFILING_ENABLED" value="false" />
       </Profilers>
       <method>
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1529568191116" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1529635691394" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2673,6 +2792,27 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
       <method />
     </configuration>
     <configuration default="true" type="JarApplication" factoryName="JAR Application">
@@ -2826,7 +2966,8 @@
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
       <method>
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1529568191119" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1529635691396" />
       </method>
     </configuration>
     <list size="1">
@@ -2892,7 +3033,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -2909,148 +3050,25 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/layout/SearchActivityUi.kt</url>
+          <line>14</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/button_corner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="45" lean-forward="false" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Activity/SplashScreen.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Activity/Home.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="4" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="6" lean-forward="false" selection-start-line="20" selection-start-column="6" selection-end-line="21" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Activity/Home.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/anko/HomeActivity.kt" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Activity/RegisterActivity.java" />
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="13" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/button_corner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="45" lean-forward="false" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Utility/Globals.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="73" lean-forward="false" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Base/BaseActivity.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="149" column="51" lean-forward="false" selection-start-line="149" selection-start-column="51" selection-end-line="149" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.gradle/caches/3.3/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f9e8dfd54374f548678a7486c50f2b0c/res/layout/abc_activity_chooser_view.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="39" column="31" lean-forward="false" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/ids.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/fonts/avenir_heavy.ttf" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/fonts/avenir_roman.ttf" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-v16/styles.xml" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/fonts/trajansmall.ttf" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/assets/fonts/myriad.otf" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/assets/fonts/montserrat-light.otf" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/assets/fonts/loraregular.ttf" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/anko/TesActivity.kt" />
-    <entry file="file://$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="2091" column="0" lean-forward="false" selection-start-line="2091" selection-start-column="0" selection-end-line="2091" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/tes.xml" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/fonts/avenir_black.ttf" />
     <entry file="file://$USER_HOME$/.gradle/caches/3.3/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f9e8dfd54374f548678a7486c50f2b0c/res/values/values.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="9" column="59" lean-forward="false" selection-start-line="9" selection-start-column="59" selection-end-line="9" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3079,174 +3097,384 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="41" lean-forward="false" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Activity/Home.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="39" column="50" lean-forward="false" selection-start-line="39" selection-start-column="50" selection-end-line="39" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/anko/LoginActivity.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="124" column="20" lean-forward="false" selection-start-line="124" selection-start-column="20" selection-end-line="124" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/anko/RegisterActivity.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="153" column="21" lean-forward="true" selection-start-line="124" selection-start-column="20" selection-end-line="153" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Layout/HomeUi.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="19" column="9" lean-forward="false" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Layout/SplashScreenUi.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="71" column="36" lean-forward="false" selection-start-line="71" selection-start-column="36" selection-end-line="71" selection-end-column="36" />
-          <folding>
-            <element signature="e#2846#2887#0" expanded="true" />
-            <element signature="e#3348#3390#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/login.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="151" column="12" lean-forward="false" selection-start-line="151" selection-start-column="12" selection-end-line="151" selection-end-column="12" />
-          <folding>
-            <element signature="e#5987#6007#0" expanded="true" />
-            <element signature="e#6704#6723#0" expanded="true" />
-            <element signature="e#7419#7442#0" expanded="true" />
-            <element signature="e#8138#8156#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/anko/LoginActivity.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/anko/RegisterActivity.kt" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/register.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
+        <state relative-caret-position="2556">
           <caret line="142" column="16" lean-forward="false" selection-start-line="142" selection-start-column="16" selection-end-line="142" selection-end-column="16" />
-          <folding>
-            <element signature="e#6121#6144#0" expanded="true" />
-            <element signature="e#6846#6864#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
       <provider editor-type-id="android-designer2">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Layout/RegisterUi.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="198" column="43" lean-forward="false" selection-start-line="198" selection-start-column="43" selection-end-line="198" selection-end-column="43" />
-          <folding>
-            <element signature="e#1471#1508#0" expanded="true" />
-            <element signature="e#2787#2838#0" expanded="true" />
-            <element signature="e#3962#4011#0" expanded="true" />
-            <element signature="e#6711#6751#0" expanded="true" />
-            <element signature="e#7459#7498#0" expanded="true" />
-            <element signature="e#8202#8245#0" expanded="true" />
-            <element signature="e#8953#8991#0" expanded="true" />
-            <element signature="e#9762#9799#0" expanded="true" />
-            <element signature="e#10411#10455#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Activity/SplashScreen.kt">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
-          <caret line="33" column="26" lean-forward="false" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+          <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="67" lean-forward="false" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
+        <state relative-caret-position="360">
+          <caret line="20" column="32" lean-forward="false" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Layout/LoginUi.kt">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/login.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="23" column="33" lean-forward="false" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="33" />
+        <state relative-caret-position="304">
+          <caret line="224" column="38" lean-forward="false" selection-start-line="224" selection-start-column="38" selection-end-line="224" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/ids.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="33" column="22" lean-forward="false" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Activity/SearchActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="27" lean-forward="false" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="38" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/home.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="42" lean-forward="false" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="42" />
           <folding>
-            <element signature="e#1299#1336#0" expanded="true" />
-            <element signature="e#2509#2560#0" expanded="true" />
-            <element signature="e#3610#3659#0" expanded="true" />
-            <element signature="e#6407#6450#0" expanded="true" />
-            <element signature="e#7182#7220#0" expanded="true" />
-            <element signature="e#7963#8000#0" expanded="true" />
-            <element signature="e#8513#8558#0" expanded="true" />
+            <element signature="e#2031#2045#0" expanded="true" />
+            <element signature="e#3022#3042#0" expanded="true" />
+            <element signature="e#3849#3865#0" expanded="true" />
+            <element signature="e#4759#4780#0" expanded="true" />
+            <element signature="e#5720#5736#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/anko/HomeActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="22" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Layout/CreateFragmentUI.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Layout/CreateFragmentUi.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="10" column="6" lean-forward="false" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Utility/Globals.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Frgament/CreateFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="19" lean-forward="false" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="39" column="50" lean-forward="false" selection-start-line="39" selection-start-column="50" selection-end-line="39" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/3.3/caches/modules-2/files-2.1/org.jetbrains.anko/anko-commons/0.10.4/e2da737b1fee81d7d807e2b08fbaba06f8f43f2f/anko-commons-0.10.4-sources.jar!/AnkoContext.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="129" column="10" lean-forward="false" selection-start-line="129" selection-start-column="10" selection-end-line="129" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/base/BaseDialog.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="17" column="15" lean-forward="false" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/layout/LoginUi.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="47" lean-forward="false" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+          <folding>
+            <element signature="e#57#386#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Activity/RegisterActivity.kt">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/layout/RegisterUi.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="29" column="47" lean-forward="false" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="47" />
+        <state relative-caret-position="180">
+          <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/layout/SplashScreenUi.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="20" column="50" lean-forward="false" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/activity/login/LoginActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="23" column="52" lean-forward="false" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
           <folding>
-            <element signature="e#59#374#0" expanded="true" />
+            <element signature="e#65#400#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/Activity/LoginActivity.kt">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/layout/HomeUi.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="25" column="47" lean-forward="false" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+          <caret line="40" column="38" lean-forward="false" selection-start-line="40" selection-start-column="38" selection-end-line="40" selection-end-column="38" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/base/BaseActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="145" column="0" lean-forward="false" selection-start-line="145" selection-start-column="0" selection-end-line="145" selection-end-column="0" />
+          <folding>
+            <element signature="e#55#436#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        <state relative-caret-position="462">
+          <caret line="37" column="71" lean-forward="false" selection-start-line="37" selection-start-column="71" selection-end-line="37" selection-end-column="71" />
           <folding>
-            <element signature="e#350#368#0" expanded="true" />
-            <marker date="1529567796419" expanded="true" signature="1168:1187" ph="..." />
+            <marker date="1529635143308" expanded="true" signature="1191:1210" ph="..." />
           </folding>
         </state>
       </provider>
       <provider editor-type-id="android-manifest">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/layout/HomeFragmentUi.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="38" lean-forward="false" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <folding>
+            <element signature="e#57#210#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/layout/DetailServiceUi.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/layout/ProfileFragmentUi.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="14" column="41" lean-forward="false" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/layout/SearchActivityUi.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/layout/TopChoiseFragmentUi.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="14" column="43" lean-forward="false" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/layout/YourClassFragmentUi.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="14" column="43" lean-forward="false" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/base/BaseFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <element signature="e#54#464#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/layout/CreateServiceUi.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/activity/home/SearchActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+          <folding>
+            <element signature="e#64#267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/activity/home/Home.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding>
+            <element signature="e#64#835#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/activity/login/RegisterActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="27" column="59" lean-forward="false" selection-start-line="27" selection-start-column="59" selection-end-line="27" selection-end-column="59" />
+          <folding>
+            <element signature="e#65#403#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/activity/login/SplashScreen.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="19" column="3" lean-forward="false" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+          <folding>
+            <element signature="e#65#627#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/activity/service/CreateServiceActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="4" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+          <folding>
+            <element signature="e#67#319#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/activity/service/DetailServiceActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="4" lean-forward="false" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <folding>
+            <element signature="e#67#269#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/fragment/HomeFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="38" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="38" />
+          <folding>
+            <element signature="e#59#362#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/fragment/ProfileFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="4" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <folding>
+            <element signature="e#59#365#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/fragment/TopChoiseFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="4" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <folding>
+            <element signature="e#59#367#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/khoiron/myteacher/guru/lest/privates/fragment/YourClassFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="4" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          <folding>
+            <element signature="e#59#367#0" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>

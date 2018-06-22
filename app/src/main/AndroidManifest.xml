@@ -11,10 +11,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Activity.Home"
+        <activity android:name=".activity.home.Home"
             android:theme="@style/AppThemee">
         </activity>
-        <activity android:name=".Activity.SplashScreen"
+        <activity android:name=".activity.login.SplashScreen"
             android:theme="@style/AppThemee">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -22,13 +22,23 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Activity.LoginActivity"
+        <activity android:name=".activity.login.LoginActivity"
             android:theme="@style/AppThemee">
 
         </activity>
-        <activity android:name=".Activity.RegisterActivity"
+        <activity android:name=".activity.login.RegisterActivity"
             android:theme="@style/AppThemee">
         </activity>
+        <activity android:name=".activity.home.SearchActivity"
+            android:theme="@style/AppThemee">
+        </activity>
+        <activity android:name=".activity.service.CreateServiceActivity"
+            android:theme="@style/AppThemee">
+        </activity>
+        <activity android:name=".activity.service.DetailServiceActivity"
+            android:theme="@style/AppThemee">
+        </activity>
+
     </application>
 
 </manifest>
