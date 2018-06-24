@@ -22,5 +22,15 @@
     <string name="your_clases">Your Class</string>
     <string name="create">Create</string>
     <string name="acount">Acount</string>
+    <string name="title_robotic">Robotic</string>
+    <string name="title_matematic">Matematic</string>
+    <string name="title_biologic">Biologic</string>
+    <string name="title_Computer">Computer sciences</string>
+    <string name="title_sosial_sciences">Sosial sciences</string>
+    <string name="title_natural_sciences">Natural sciences</string>
+    <string name="title_religi">Religion/ Faith</string>
+    <string name="title_a_craft">A craft</string>
+    <string name="title_art_and_culture">Art and culture </string>
+    <string name="title_other">Other </string>
 
 </resources>

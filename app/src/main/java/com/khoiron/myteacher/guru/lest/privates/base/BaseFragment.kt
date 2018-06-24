@@ -20,6 +20,7 @@ abstract class BaseFragment : Fragment() {
 
     protected var statusInternet : Boolean = false
     protected lateinit var pDialog: ProgressDialog
+    lateinit var myView :View
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
         return layoutFragment()
@@ -30,6 +31,7 @@ abstract class BaseFragment : Fragment() {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         pDialog = ProgressDialog(context)
         pDialog.setCancelable(false)
+        this.myView = view
         onViewCreatedListener(view,savedInstanceState)
     }
 
@@ -123,4 +125,9 @@ abstract class BaseFragment : Fragment() {
         if (pDialog.isShowing)
             pDialog.dismiss()
     }
+
+    open fun goActivity(c: Class<*>) {
+        startActivity(Intent(context,c))
+    }
+
 }

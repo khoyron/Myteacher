@@ -11,6 +11,7 @@ import org.jetbrains.anko.support.v4.ctx
 /**
  * Created by khoiron on 22/06/18.
  */
+
 class YourClassFragment : BaseFragment() {
     override fun layoutFragment(): View {
         return YourClassFragmentUi<Fragment>().createView(AnkoContext.create(ctx, this))

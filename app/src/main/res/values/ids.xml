@@ -34,4 +34,24 @@
     <item name="search" type="id"></item>
     <item name="placeFragment" type="id" />
 
+
+    <item name="btnRobotic" type="id" />
+    <item name="rvRobotic" type="id" />
+    <item name="btnMatematic" type="id" />
+    <item name="rvMatematic" type="id" />
+    <item name="btnBiologic" type="id" />
+    <item name="rvBiologic" type="id" />
+    <item name="btnComputer" type="id" />
+    <item name="rvComputer" type="id" />
+    <item name="btnSosialScience" type="id" />
+    <item name="rvSocilaSciance" type="id" />
+    <item name="btnNaturalScience" type="id" />
+    <item name="rvNaturalScience" type="id" />
+    <item name="btnReligi" type="id" />
+    <item name="rvReligions" type="id" />
+    <item name="btnArtAndCulture" type="id" />
+    <item name="rvArtAndCulture" type="id" />
+    <item name="btnOther" type="id" />
+    <item name="rvOther" type="id" />
+
 </resources>

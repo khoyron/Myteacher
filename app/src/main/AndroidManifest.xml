@@ -38,6 +38,9 @@
         <activity android:name=".activity.service.DetailServiceActivity"
             android:theme="@style/AppThemee">
         </activity>
+        <activity android:name=".activity.service.DetailCategoryActivity"
+            android:theme="@style/AppThemee">
+        </activity>
 
     </application>
 
