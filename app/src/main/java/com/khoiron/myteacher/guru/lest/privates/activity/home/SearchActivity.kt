@@ -2,7 +2,7 @@ package com.khoiron.myteacher.guru.lest.privates.activity.home
 
 import android.os.Bundle
 import com.khoiron.myteacher.guru.lest.privates.base.BaseActivity
-import com.khoiron.myteacher.guru.lest.privates.layout.SearchActivityUi
+import com.khoiron.myteacher.guru.lest.privates.layout.homescreen.SearchActivityUi
 import org.jetbrains.anko.setContentView
 
 /**

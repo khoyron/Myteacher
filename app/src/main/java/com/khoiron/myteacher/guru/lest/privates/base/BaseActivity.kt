@@ -10,8 +10,12 @@ import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.util.Log
 import android.widget.Toast
+import com.cekongkir.cekpaket.cekresi.ceklokasi.ceksemuaongkir.cekbarang.kiriman.khoiron.Utility.ApiUrl
+import com.facebook.FacebookSdk
 import java.text.SimpleDateFormat
 import java.util.*
+
+
 
 
 /**
@@ -22,15 +26,21 @@ abstract class BaseActivity :AppCompatActivity() {
     protected lateinit var pDialog: ProgressDialog
     protected var statusInternet : Boolean = false
     protected lateinit var pCurrentFragment: BaseFragment
+    val myUrl by lazy { ApiUrl.getData()}
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         pDialog = ProgressDialog(this)
         pDialog.setCancelable(false)
+        FacebookSdk.sdkInitialize(getApplicationContext());
         layoutView()
+
+
         onMain(savedInstanceState)
     }
+
+
 
     abstract fun layoutView()
 
@@ -44,6 +54,23 @@ abstract class BaseActivity :AppCompatActivity() {
         val fragmentTransaction = supportFragmentManager.beginTransaction()
         fragmentTransaction.replace(place, fragment)
         fragmentTransaction.commit()
+    }
+
+    fun destroyFragment(fragment: BaseFragment){
+        val fragmentTransaction = supportFragmentManager.beginTransaction()
+        fragmentTransaction.remove(fragment).commit()
+    }
+
+    fun destroyFragment(fragment: BaseFragment,fragment2: BaseFragment,fragment3: BaseFragment){
+        val fragmentTransaction = supportFragmentManager.beginTransaction()
+        fragmentTransaction.remove(fragment).commit()
+
+        val fragmentTransaction2 = supportFragmentManager.beginTransaction()
+        fragmentTransaction2.remove(fragment2).commit()
+
+        val fragmentTransaction3 = supportFragmentManager.beginTransaction()
+        fragmentTransaction3.remove(fragment3).commit()
+
     }
 
     protected fun showDialog(Mdialog: String) {
@@ -138,12 +165,19 @@ abstract class BaseActivity :AppCompatActivity() {
         }
     }
 
-    fun setToast(message: String,context:Context){
-        Toast.makeText(context,message, Toast.LENGTH_LONG).show()
+    fun setToast(message: String){
+        Toast.makeText(this,message, Toast.LENGTH_LONG).show()
     }
 
     open fun goActivity(c: Class<*>) {
         startActivity(Intent(applicationContext,c))
     }
 
+    fun notice() {
+        android.support.v7.app.AlertDialog.Builder(this)
+                .setMessage("Maaf fitur ini masih belum tersedia!")
+                .setCancelable(false)
+                .setNegativeButton("Ok", null)
+                .show()
+    }
 }

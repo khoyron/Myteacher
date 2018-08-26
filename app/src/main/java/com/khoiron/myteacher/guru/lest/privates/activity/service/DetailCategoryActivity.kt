@@ -2,7 +2,7 @@ package com.khoiron.myteacher.guru.lest.privates.activity.service
 
 import android.os.Bundle
 import com.khoiron.myteacher.guru.lest.privates.base.BaseActivity
-import com.khoiron.myteacher.guru.lest.privates.layout.DetailCategoryUi
+import com.khoiron.myteacher.guru.lest.privates.layout.serviselayout.DetailCategoryUi
 import org.jetbrains.anko.setContentView
 
 /**

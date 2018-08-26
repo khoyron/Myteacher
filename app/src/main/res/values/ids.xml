@@ -53,5 +53,39 @@
     <item name="rvArtAndCulture" type="id" />
     <item name="btnOther" type="id" />
     <item name="rvOther" type="id" />
+    <item name="imageRvHome" type="id"></item>
+    <item name="titleRvHome" type="id"></item>
+    <item name="nameRvHome" type="id"></item>
+    <item name="header" type="id" />
+
+    <item name="rvMenuTop" type="id"></item>
+    <item name="btnBook" type="id" />
+    <item name="btnBook1" type="id"></item>
+    <item name="btnBook2" type="id"></item>
+    <item name="btnAsk" type="id"></item>
+    <item name="btnAsk1" type="id" />
+    <item name="btnAsk2" type="id" />
+    <item name="groundTitle" type="id" />
+    <item name="titleMenu" type="id"></item>
+
+    <item name="txPaket" type="id" />
+    <item name="txAmount" type="id" />
+    <item name="address" type="id" />
+    <item name="txAddress" type="id" />
+    <item name="txReview" type="id" />
+    <item name="etServices" type="id" />
+    <item name="txFullAddress" type="id" />
+    <item name="txJenjang" type="id" />
+    <item name="backd" type="id" />
+    <item name="backBtn" type="id" />
+
+    <item name="etAddress" type="id" />
+    <item name="etZipcode" type="id" />
+    <item name="etUserName" type="id" />
+    <item name="etMobile" type="id" />
+    <item name="etgender" type="id" />
+    <item name="etType" type="id" />
+    <item name="backToLogin" type="id" />
+
 
 </resources>

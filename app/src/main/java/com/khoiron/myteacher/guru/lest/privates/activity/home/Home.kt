@@ -5,7 +5,7 @@ import android.support.v4.content.ContextCompat
 import android.widget.ImageView
 import android.widget.RelativeLayout
 import android.widget.TextView
-import com.khoiron.myteacher.guru.lest.privates.layout.HomeUi
+import com.khoiron.myteacher.guru.lest.privates.layout.homescreen.HomeUi
 import com.khoiron.myteacher.guru.lest.privates.R
 import com.khoiron.myteacher.guru.lest.privates.activity.service.CreateServiceActivity
 import com.khoiron.myteacher.guru.lest.privates.base.BaseActivity
@@ -63,7 +63,7 @@ class Home : BaseActivity() {
 
     private fun createClick() {
         goActivity(CreateServiceActivity::class.java)
-        imgCreate.setImageDrawable(ContextCompat.getDrawable(this,R.drawable.sementara2))
+        imgCreate.setImageDrawable(ContextCompat.getDrawable(this,R.drawable.create_blue))
         txCreate.setTextColor(ContextCompat.getColor(this, R.color.colorPrimary))
         imgTopChoise.setImageDrawable(ContextCompat.getDrawable(this,R.drawable.sementara))
         txTopChoise.setTextColor(ContextCompat.getColor(this, R.color.colorgrey))
@@ -77,9 +77,10 @@ class Home : BaseActivity() {
 
     private fun choiseClik() {
         switchFargment(R.id.placeFragment,TopChoiseFragment())
+        destroyFragment(YourClassFragment(),ProfileFragment(),HomeFragment())
         imgTopChoise.setImageDrawable(ContextCompat.getDrawable(this,R.drawable.sementara2))
         txTopChoise.setTextColor(ContextCompat.getColor(this, R.color.colorPrimary))
-        imgCreate.setImageDrawable(ContextCompat.getDrawable(this,R.drawable.sementara))
+        imgCreate.setImageDrawable(ContextCompat.getDrawable(this,R.drawable.create_grey))
         txCreate.setTextColor(ContextCompat.getColor(this, R.color.colorgrey))
         imgHome.setImageDrawable(ContextCompat.getDrawable(this,R.drawable.sementara))
         txHome.setTextColor(ContextCompat.getColor(this, R.color.colorgrey))
@@ -91,11 +92,12 @@ class Home : BaseActivity() {
 
     private fun homeClik() {
         switchFargment(R.id.placeFragment,HomeFragment())
+        destroyFragment(YourClassFragment(),ProfileFragment(),TopChoiseFragment())
         imgHome.setImageDrawable(ContextCompat.getDrawable(this,R.drawable.sementara2))
         txHome.setTextColor(ContextCompat.getColor(this, R.color.colorPrimary))
         imgTopChoise.setImageDrawable(ContextCompat.getDrawable(this,R.drawable.sementara))
         txTopChoise.setTextColor(ContextCompat.getColor(this, R.color.colorgrey))
-        imgCreate.setImageDrawable(ContextCompat.getDrawable(this,R.drawable.sementara))
+        imgCreate.setImageDrawable(ContextCompat.getDrawable(this,R.drawable.create_grey))
         txCreate.setTextColor(ContextCompat.getColor(this, R.color.colorgrey))
         imgYourClass.setImageDrawable(ContextCompat.getDrawable(this,R.drawable.sementara))
         txYourClass.setTextColor(ContextCompat.getColor(this, R.color.colorgrey))
@@ -106,6 +108,7 @@ class Home : BaseActivity() {
     }
     private fun yourClassClik() {
         switchFargment(R.id.placeFragment,YourClassFragment())
+        destroyFragment(TopChoiseFragment(),ProfileFragment(),HomeFragment())
         imgYourClass.setImageDrawable(ContextCompat.getDrawable(this,R.drawable.sementara2))
         txYourClass.setTextColor(ContextCompat.getColor(this, R.color.colorPrimary))
         imgHome.setImageDrawable(ContextCompat.getDrawable(this,R.drawable.sementara))
@@ -114,14 +117,13 @@ class Home : BaseActivity() {
         txProfile.setTextColor(ContextCompat.getColor(this, R.color.colorgrey))
         imgTopChoise.setImageDrawable(ContextCompat.getDrawable(this,R.drawable.sementara))
         txTopChoise.setTextColor(ContextCompat.getColor(this, R.color.colorgrey))
-        imgCreate.setImageDrawable(ContextCompat.getDrawable(this,R.drawable.sementara))
+        imgCreate.setImageDrawable(ContextCompat.getDrawable(this,R.drawable.create_grey))
         txCreate.setTextColor(ContextCompat.getColor(this, R.color.colorgrey))
-
-
 
     }
     private fun profileClik() {
         switchFargment(R.id.placeFragment,ProfileFragment())
+        destroyFragment(TopChoiseFragment(),YourClassFragment(),HomeFragment())
         imgProfile.setImageDrawable(ContextCompat.getDrawable(this,R.drawable.sementara2))
         txProfile.setTextColor(ContextCompat.getColor(this, R.color.colorPrimary))
         imgYourClass.setImageDrawable(ContextCompat.getDrawable(this,R.drawable.sementara))
@@ -130,7 +132,7 @@ class Home : BaseActivity() {
         txHome.setTextColor(ContextCompat.getColor(this, R.color.colorgrey))
         imgTopChoise.setImageDrawable(ContextCompat.getDrawable(this,R.drawable.sementara))
         txTopChoise.setTextColor(ContextCompat.getColor(this, R.color.colorgrey))
-        imgCreate.setImageDrawable(ContextCompat.getDrawable(this,R.drawable.sementara))
+        imgCreate.setImageDrawable(ContextCompat.getDrawable(this,R.drawable.create_grey))
         txCreate.setTextColor(ContextCompat.getColor(this, R.color.colorgrey))
     }
 }

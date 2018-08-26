@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "59376753521",
+    "firebase_url": "https://my-teacher-d9039.firebaseio.com",
+    "project_id": "my-teacher-d9039",
+    "storage_bucket": "my-teacher-d9039.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59376753521:android:3612e4d5f7d1bfae",
+        "android_client_info": {
+          "package_name": "com.khoiron.myteacher.guru.lest.privates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59376753521-d4v8tb4k41b5v6m8tqs9gb1eegluav8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXX3jdpuWs_phGwXqK4bCiWEudxUkoSOU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -5,9 +5,9 @@ import android.view.View
 import android.widget.Button
 import android.widget.ImageView
 import android.widget.TextView
-import com.khoiron.myteacher.guru.lest.privates.layout.SplashScreenUi
+import com.khoiron.myteacher.guru.lest.privates.layout.loginlayout.SplashScreenUi
 import com.khoiron.myteacher.guru.lest.privates.R
-import com.khoiron.myteacher.guru.lest.privates.Utility.Globals
+import com.khoiron.myteacher.guru.lest.privates.utility.Globals
 import com.khoiron.myteacher.guru.lest.privates.activity.home.Home
 import com.khoiron.myteacher.guru.lest.privates.base.BaseActivity
 import org.jetbrains.anko.setContentView
@@ -21,7 +21,8 @@ import java.lang.Exception
 
 //test
 class SplashScreen : BaseActivity() {
-    override fun layoutView() {SplashScreenUi<SplashScreen>().setContentView(this)}
+    override fun layoutView() {
+        SplashScreenUi<SplashScreen>().setContentView(this)}
 
     val imageBg by lazy { findViewById(R.id.imageBg) as ImageView }
     val goSignIn by lazy { findViewById(R.id.gosignin) as TextView }

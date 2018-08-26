@@ -33,4 +33,14 @@
     <string name="title_art_and_culture">Art and culture </string>
     <string name="title_other">Other </string>
 
+    <string name="facebook_app_id">218596985516392</string>
+    <string name="fb_login_protocol_scheme">fb218596985516392</string>
+    <string name="addrees">Address</string>
+    <string name="zipcode">Zipcode</string>
+    <string name="userName">User Name</string>
+    <string name="mobile">No Hp</string>
+    <string name="gender">Gender</string>
+    <string name="etType">Guru / murid</string>
+
+
 </resources>

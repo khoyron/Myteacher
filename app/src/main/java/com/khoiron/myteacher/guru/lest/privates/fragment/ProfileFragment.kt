@@ -4,7 +4,7 @@ import android.os.Bundle
 import android.support.v4.app.Fragment
 import android.view.View
 import com.khoiron.myteacher.guru.lest.privates.base.BaseFragment
-import com.khoiron.myteacher.guru.lest.privates.layout.ProfileFragmentUi
+import com.khoiron.myteacher.guru.lest.privates.layout.fragmentlayout.ProfileFragmentUi
 import org.jetbrains.anko.AnkoContext
 import org.jetbrains.anko.support.v4.ctx
 

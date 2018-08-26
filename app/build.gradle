@@ -17,62 +17,75 @@ kapt {
 }
 
 android {
+    signingConfigs {
+        release {
+            keyAlias 'key0'
+            keyPassword 'pengusaha'
+            storeFile file('/home/khoiron/Dokumen/MyTeacher/myteacher-key.jks')
+            storePassword 'pengusaha'
+        }
+    }
     compileSdkVersion 27
     defaultConfig {
         applicationId "com.khoiron.myteacher.guru.lest.privates"
+        multiDexEnabled true
         minSdkVersion 17
         targetSdkVersion 27
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        signingConfig signingConfigs.release
     }
     buildTypes {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
         }
+    }
+    productFlavors {
     }
 }
 
 dependencies {
-    implementation fileTree(dir: 'libs', include: ['*.jar'])
-    implementation"org.jetbrains.kotlin:kotlin-stdlib-jre7:$kotlin_version"
+    implementation 'com.android.support:multidex:1.0.3'
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jre7:$kotlin_version"
     implementation 'com.android.support:appcompat-v7:27.1.1'
     implementation 'com.android.support.constraint:constraint-layout:1.1.0'
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.2'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
-
     //Anko
     compile "org.jetbrains.anko:anko:$anko_version"
-//Anko layout
+    //Anko layout
     compile "org.jetbrains.anko:anko-sdk25:$anko_version"
     compile "org.jetbrains.anko:anko-appcompat-v7:$anko_version"
-//Coroutines
+    //Coroutines
     compile "org.jetbrains.anko:anko-sdk25-coroutines:$anko_version"
     compile "org.jetbrains.anko:anko-appcompat-v7-coroutines:$anko_version"
-//for snakbars
+    //for snakbars
     compile "org.jetbrains.anko:anko-design:$anko_version"
-    compile "com.android.support:design:27.1.0"
+    compile 'com.android.support:design:27.1.0'
     compile "org.jetbrains.anko:anko-recyclerview-v7:$anko_version"
     compile "org.jetbrains.anko:anko-recyclerview-v7-coroutines:$anko_version"
-
     implementation 'org.jetbrains.anko:anko-cardview-v7:0.10.1'
-    compile "com.android.support:cardview-v7:27.1.0"
 
-//    implementation 'com.jakewharton:kotterknife:0.1.0-SNAPSHOT'
 
+    compile 'com.android.support:cardview-v7:27.1.0'
+    //    implementation 'com.jakewharton:kotterknife:0.1.0-SNAPSHOT'
     compile 'com.squareup.retrofit2:retrofit:2.3.0'
     compile 'com.squareup.retrofit2:adapter-rxjava2:2.3.0'
     compile 'com.squareup.retrofit2:converter-gson:2.3.0'
     compile 'com.squareup.okhttp3:okhttp:3.9.1'
     compile 'com.squareup.okhttp3:logging-interceptor:3.4.1'
-
     annotationProcessor 'com.jakewharton:butterknife-compiler:8.5.1'
-
     compile 'com.google.code.gson:gson:2.7'
     compile 'org.glassfish:javax.annotation:10.0-b28'
-
     implementation 'com.squareup.picasso:picasso:2.71828'
+    implementation 'com.facebook.android:facebook-login:[4,5)'
+    compile 'com.google.firebase:firebase-core:16.0.0'
+    compile 'com.google.android.gms:play-services-auth:15.0.1'
 
 }
+apply plugin: 'com.google.gms.google-services'
